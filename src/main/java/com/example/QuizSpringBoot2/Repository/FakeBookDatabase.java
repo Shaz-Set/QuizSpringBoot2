@@ -3,8 +3,11 @@ package com.example.QuizSpringBoot2.Repository;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.springframework.stereotype.Repository;
+
 import com.example.QuizSpringBoot2.Entity.Book;
 
+@Repository
 public class FakeBookDatabase implements BookRepository {
 
 	List<Book> BOOKDATABASE = new ArrayList<>();
