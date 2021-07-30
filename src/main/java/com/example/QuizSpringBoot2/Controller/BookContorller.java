@@ -12,7 +12,7 @@ import com.example.QuizSpringBoot2.Entity.Book;
 import com.example.QuizSpringBoot2.Service.BookService;
 
 
-@RequestMapping("/api/book")
+@RequestMapping("api/book")
 @RestController
 public class BookContorller {
 	

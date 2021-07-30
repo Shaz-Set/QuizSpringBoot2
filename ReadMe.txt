@@ -25,7 +25,7 @@ a.) Getting data from the Database <-
  
 b.)Connect HTML with Java
 
-c.)Store Vaiable
+c.)Store Variable
 
 d.)None of the Above
 
@@ -49,7 +49,7 @@ The Answer is b
 
 
 
-Question 4. What are different types of Autowire? 
+Question 4. What are different types of Autowired? 
 
 a.) byName
 

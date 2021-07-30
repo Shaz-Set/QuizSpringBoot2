@@ -1,9 +1,7 @@
 package com.example.QuizSpringBoot2.Repository;
 
 import java.util.List;
-
 import org.springframework.stereotype.Repository;
-
 import com.example.QuizSpringBoot2.Entity.Book;
 
 @Repository
